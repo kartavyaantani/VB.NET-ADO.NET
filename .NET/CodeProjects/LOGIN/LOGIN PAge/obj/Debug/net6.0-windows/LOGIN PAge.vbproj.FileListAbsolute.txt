@@ -1,0 +1,17 @@
+C:\Kartavya\SEM-4\.NET\CodeProjects\LOGIN\LOGIN PAge\bin\Debug\net6.0-windows\LOGIN PAge.exe
+C:\Kartavya\SEM-4\.NET\CodeProjects\LOGIN\LOGIN PAge\bin\Debug\net6.0-windows\LOGIN PAge.deps.json
+C:\Kartavya\SEM-4\.NET\CodeProjects\LOGIN\LOGIN PAge\bin\Debug\net6.0-windows\LOGIN PAge.runtimeconfig.json
+C:\Kartavya\SEM-4\.NET\CodeProjects\LOGIN\LOGIN PAge\bin\Debug\net6.0-windows\LOGIN PAge.dll
+C:\Kartavya\SEM-4\.NET\CodeProjects\LOGIN\LOGIN PAge\bin\Debug\net6.0-windows\LOGIN PAge.pdb
+C:\Kartavya\SEM-4\.NET\CodeProjects\LOGIN\LOGIN PAge\obj\Debug\net6.0-windows\LOGIN PAge.vbproj.AssemblyReference.cache
+C:\Kartavya\SEM-4\.NET\CodeProjects\LOGIN\LOGIN PAge\obj\Debug\net6.0-windows\LOGIN_PAge.Form1.resources
+C:\Kartavya\SEM-4\.NET\CodeProjects\LOGIN\LOGIN PAge\obj\Debug\net6.0-windows\LOGIN PAge.vbproj.GenerateResource.cache
+C:\Kartavya\SEM-4\.NET\CodeProjects\LOGIN\LOGIN PAge\obj\Debug\net6.0-windows\LOGIN PAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kartavya\SEM-4\.NET\CodeProjects\LOGIN\LOGIN PAge\obj\Debug\net6.0-windows\LOGIN PAge.AssemblyInfoInputs.cache
+C:\Kartavya\SEM-4\.NET\CodeProjects\LOGIN\LOGIN PAge\obj\Debug\net6.0-windows\LOGIN PAge.AssemblyInfo.vb
+C:\Kartavya\SEM-4\.NET\CodeProjects\LOGIN\LOGIN PAge\obj\Debug\net6.0-windows\LOGIN PAge.vbproj.CoreCompileInputs.cache
+C:\Kartavya\SEM-4\.NET\CodeProjects\LOGIN\LOGIN PAge\obj\Debug\net6.0-windows\LOGIN PAge.dll
+C:\Kartavya\SEM-4\.NET\CodeProjects\LOGIN\LOGIN PAge\obj\Debug\net6.0-windows\refint\LOGIN PAge.dll
+C:\Kartavya\SEM-4\.NET\CodeProjects\LOGIN\LOGIN PAge\obj\Debug\net6.0-windows\LOGIN PAge.pdb
+C:\Kartavya\SEM-4\.NET\CodeProjects\LOGIN\LOGIN PAge\obj\Debug\net6.0-windows\LOGIN PAge.genruntimeconfig.cache
+C:\Kartavya\SEM-4\.NET\CodeProjects\LOGIN\LOGIN PAge\obj\Debug\net6.0-windows\ref\LOGIN PAge.dll

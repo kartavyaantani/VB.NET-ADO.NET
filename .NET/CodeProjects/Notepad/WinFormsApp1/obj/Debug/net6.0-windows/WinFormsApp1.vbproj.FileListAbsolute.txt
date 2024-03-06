@@ -1,0 +1,17 @@
+C:\Kartavya\SEM-4\.NET\CodeProjects\Notepad\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Kartavya\SEM-4\.NET\CodeProjects\Notepad\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Kartavya\SEM-4\.NET\CodeProjects\Notepad\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Kartavya\SEM-4\.NET\CodeProjects\Notepad\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Kartavya\SEM-4\.NET\CodeProjects\Notepad\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Kartavya\SEM-4\.NET\CodeProjects\Notepad\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Kartavya\SEM-4\.NET\CodeProjects\Notepad\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Kartavya\SEM-4\.NET\CodeProjects\Notepad\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Kartavya\SEM-4\.NET\CodeProjects\Notepad\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kartavya\SEM-4\.NET\CodeProjects\Notepad\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Kartavya\SEM-4\.NET\CodeProjects\Notepad\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Kartavya\SEM-4\.NET\CodeProjects\Notepad\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Kartavya\SEM-4\.NET\CodeProjects\Notepad\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Kartavya\SEM-4\.NET\CodeProjects\Notepad\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Kartavya\SEM-4\.NET\CodeProjects\Notepad\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Kartavya\SEM-4\.NET\CodeProjects\Notepad\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Kartavya\SEM-4\.NET\CodeProjects\Notepad\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll

@@ -1,0 +1,17 @@
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q5-SWAP Program\bin\Debug\net6.0-windows\Q5-SWAP Program.exe
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q5-SWAP Program\bin\Debug\net6.0-windows\Q5-SWAP Program.deps.json
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q5-SWAP Program\bin\Debug\net6.0-windows\Q5-SWAP Program.runtimeconfig.json
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q5-SWAP Program\bin\Debug\net6.0-windows\Q5-SWAP Program.dll
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q5-SWAP Program\bin\Debug\net6.0-windows\Q5-SWAP Program.pdb
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q5-SWAP Program\obj\Debug\net6.0-windows\Q5-SWAP Program.vbproj.AssemblyReference.cache
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q5-SWAP Program\obj\Debug\net6.0-windows\Q5_SWAP_Program.Form1.resources
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q5-SWAP Program\obj\Debug\net6.0-windows\Q5-SWAP Program.vbproj.GenerateResource.cache
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q5-SWAP Program\obj\Debug\net6.0-windows\Q5-SWAP Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q5-SWAP Program\obj\Debug\net6.0-windows\Q5-SWAP Program.AssemblyInfoInputs.cache
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q5-SWAP Program\obj\Debug\net6.0-windows\Q5-SWAP Program.AssemblyInfo.vb
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q5-SWAP Program\obj\Debug\net6.0-windows\Q5-SWAP Program.vbproj.CoreCompileInputs.cache
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q5-SWAP Program\obj\Debug\net6.0-windows\Q5-SWAP Program.dll
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q5-SWAP Program\obj\Debug\net6.0-windows\refint\Q5-SWAP Program.dll
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q5-SWAP Program\obj\Debug\net6.0-windows\Q5-SWAP Program.pdb
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q5-SWAP Program\obj\Debug\net6.0-windows\Q5-SWAP Program.genruntimeconfig.cache
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q5-SWAP Program\obj\Debug\net6.0-windows\ref\Q5-SWAP Program.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Q8-Add-Remove- Clear and Move Items into List Box And Combo Box/1.0.0": {
+        "runtime": {
+          "Q8-Add-Remove- Clear and Move Items into List Box And Combo Box.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Q8-Add-Remove- Clear and Move Items into List Box And Combo Box/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

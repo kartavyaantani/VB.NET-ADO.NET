@@ -1,0 +1,17 @@
+C:\Kartavya\SEM-4\.NET\CodeProjects\Restaurant\Restaurant_App\bin\Debug\net6.0-windows\Restaurant_App.exe
+C:\Kartavya\SEM-4\.NET\CodeProjects\Restaurant\Restaurant_App\bin\Debug\net6.0-windows\Restaurant_App.deps.json
+C:\Kartavya\SEM-4\.NET\CodeProjects\Restaurant\Restaurant_App\bin\Debug\net6.0-windows\Restaurant_App.runtimeconfig.json
+C:\Kartavya\SEM-4\.NET\CodeProjects\Restaurant\Restaurant_App\bin\Debug\net6.0-windows\Restaurant_App.dll
+C:\Kartavya\SEM-4\.NET\CodeProjects\Restaurant\Restaurant_App\bin\Debug\net6.0-windows\Restaurant_App.pdb
+C:\Kartavya\SEM-4\.NET\CodeProjects\Restaurant\Restaurant_App\obj\Debug\net6.0-windows\Restaurant_App.vbproj.AssemblyReference.cache
+C:\Kartavya\SEM-4\.NET\CodeProjects\Restaurant\Restaurant_App\obj\Debug\net6.0-windows\Restaurant_App.Form1.resources
+C:\Kartavya\SEM-4\.NET\CodeProjects\Restaurant\Restaurant_App\obj\Debug\net6.0-windows\Restaurant_App.vbproj.GenerateResource.cache
+C:\Kartavya\SEM-4\.NET\CodeProjects\Restaurant\Restaurant_App\obj\Debug\net6.0-windows\Restaurant_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kartavya\SEM-4\.NET\CodeProjects\Restaurant\Restaurant_App\obj\Debug\net6.0-windows\Restaurant_App.AssemblyInfoInputs.cache
+C:\Kartavya\SEM-4\.NET\CodeProjects\Restaurant\Restaurant_App\obj\Debug\net6.0-windows\Restaurant_App.AssemblyInfo.vb
+C:\Kartavya\SEM-4\.NET\CodeProjects\Restaurant\Restaurant_App\obj\Debug\net6.0-windows\Restaurant_App.vbproj.CoreCompileInputs.cache
+C:\Kartavya\SEM-4\.NET\CodeProjects\Restaurant\Restaurant_App\obj\Debug\net6.0-windows\Restaurant_App.dll
+C:\Kartavya\SEM-4\.NET\CodeProjects\Restaurant\Restaurant_App\obj\Debug\net6.0-windows\refint\Restaurant_App.dll
+C:\Kartavya\SEM-4\.NET\CodeProjects\Restaurant\Restaurant_App\obj\Debug\net6.0-windows\Restaurant_App.pdb
+C:\Kartavya\SEM-4\.NET\CodeProjects\Restaurant\Restaurant_App\obj\Debug\net6.0-windows\Restaurant_App.genruntimeconfig.cache
+C:\Kartavya\SEM-4\.NET\CodeProjects\Restaurant\Restaurant_App\obj\Debug\net6.0-windows\ref\Restaurant_App.dll

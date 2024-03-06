@@ -1,0 +1,17 @@
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q6-CheckBox-RadioButton-GroupBox\obj\Debug\net6.0-windows\Q6-CheckBox-RadioButton-GroupBox.vbproj.AssemblyReference.cache
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q6-CheckBox-RadioButton-GroupBox\obj\Debug\net6.0-windows\Q6_CheckBox_RadioButton_GroupBox.Form1.resources
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q6-CheckBox-RadioButton-GroupBox\obj\Debug\net6.0-windows\Q6-CheckBox-RadioButton-GroupBox.vbproj.GenerateResource.cache
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q6-CheckBox-RadioButton-GroupBox\obj\Debug\net6.0-windows\Q6-CheckBox-RadioButton-GroupBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q6-CheckBox-RadioButton-GroupBox\obj\Debug\net6.0-windows\Q6-CheckBox-RadioButton-GroupBox.AssemblyInfoInputs.cache
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q6-CheckBox-RadioButton-GroupBox\obj\Debug\net6.0-windows\Q6-CheckBox-RadioButton-GroupBox.AssemblyInfo.vb
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q6-CheckBox-RadioButton-GroupBox\obj\Debug\net6.0-windows\Q6-CheckBox-RadioButton-GroupBox.vbproj.CoreCompileInputs.cache
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q6-CheckBox-RadioButton-GroupBox\bin\Debug\net6.0-windows\Q6-CheckBox-RadioButton-GroupBox.exe
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q6-CheckBox-RadioButton-GroupBox\bin\Debug\net6.0-windows\Q6-CheckBox-RadioButton-GroupBox.deps.json
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q6-CheckBox-RadioButton-GroupBox\bin\Debug\net6.0-windows\Q6-CheckBox-RadioButton-GroupBox.runtimeconfig.json
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q6-CheckBox-RadioButton-GroupBox\bin\Debug\net6.0-windows\Q6-CheckBox-RadioButton-GroupBox.dll
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q6-CheckBox-RadioButton-GroupBox\bin\Debug\net6.0-windows\Q6-CheckBox-RadioButton-GroupBox.pdb
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q6-CheckBox-RadioButton-GroupBox\obj\Debug\net6.0-windows\Q6-CheckBox-RadioButton-GroupBox.dll
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q6-CheckBox-RadioButton-GroupBox\obj\Debug\net6.0-windows\refint\Q6-CheckBox-RadioButton-GroupBox.dll
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q6-CheckBox-RadioButton-GroupBox\obj\Debug\net6.0-windows\Q6-CheckBox-RadioButton-GroupBox.pdb
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q6-CheckBox-RadioButton-GroupBox\obj\Debug\net6.0-windows\Q6-CheckBox-RadioButton-GroupBox.genruntimeconfig.cache
+C:\Users\Home PC\Desktop\Term Work Sem 4\Q6-CheckBox-RadioButton-GroupBox\obj\Debug\net6.0-windows\ref\Q6-CheckBox-RadioButton-GroupBox.dll

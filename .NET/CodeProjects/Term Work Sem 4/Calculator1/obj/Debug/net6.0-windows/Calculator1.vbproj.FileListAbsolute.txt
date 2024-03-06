@@ -1,0 +1,17 @@
+C:\Users\Home PC\Desktop\Term Work Sem 4\Calculator1\bin\Debug\net6.0-windows\Calculator1.exe
+C:\Users\Home PC\Desktop\Term Work Sem 4\Calculator1\bin\Debug\net6.0-windows\Calculator1.deps.json
+C:\Users\Home PC\Desktop\Term Work Sem 4\Calculator1\bin\Debug\net6.0-windows\Calculator1.runtimeconfig.json
+C:\Users\Home PC\Desktop\Term Work Sem 4\Calculator1\bin\Debug\net6.0-windows\Calculator1.dll
+C:\Users\Home PC\Desktop\Term Work Sem 4\Calculator1\bin\Debug\net6.0-windows\Calculator1.pdb
+C:\Users\Home PC\Desktop\Term Work Sem 4\Calculator1\obj\Debug\net6.0-windows\Calculator1.vbproj.AssemblyReference.cache
+C:\Users\Home PC\Desktop\Term Work Sem 4\Calculator1\obj\Debug\net6.0-windows\Calculator1.Form1.resources
+C:\Users\Home PC\Desktop\Term Work Sem 4\Calculator1\obj\Debug\net6.0-windows\Calculator1.vbproj.GenerateResource.cache
+C:\Users\Home PC\Desktop\Term Work Sem 4\Calculator1\obj\Debug\net6.0-windows\Calculator1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home PC\Desktop\Term Work Sem 4\Calculator1\obj\Debug\net6.0-windows\Calculator1.AssemblyInfoInputs.cache
+C:\Users\Home PC\Desktop\Term Work Sem 4\Calculator1\obj\Debug\net6.0-windows\Calculator1.AssemblyInfo.vb
+C:\Users\Home PC\Desktop\Term Work Sem 4\Calculator1\obj\Debug\net6.0-windows\Calculator1.vbproj.CoreCompileInputs.cache
+C:\Users\Home PC\Desktop\Term Work Sem 4\Calculator1\obj\Debug\net6.0-windows\Calculator1.dll
+C:\Users\Home PC\Desktop\Term Work Sem 4\Calculator1\obj\Debug\net6.0-windows\refint\Calculator1.dll
+C:\Users\Home PC\Desktop\Term Work Sem 4\Calculator1\obj\Debug\net6.0-windows\Calculator1.pdb
+C:\Users\Home PC\Desktop\Term Work Sem 4\Calculator1\obj\Debug\net6.0-windows\Calculator1.genruntimeconfig.cache
+C:\Users\Home PC\Desktop\Term Work Sem 4\Calculator1\obj\Debug\net6.0-windows\ref\Calculator1.dll

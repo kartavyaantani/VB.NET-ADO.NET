@@ -1,0 +1,17 @@
+C:\Users\Home PC\Desktop\Term Work Sem 4\ProgressBar\bin\Debug\net6.0-windows\ProgressBar.exe
+C:\Users\Home PC\Desktop\Term Work Sem 4\ProgressBar\bin\Debug\net6.0-windows\ProgressBar.deps.json
+C:\Users\Home PC\Desktop\Term Work Sem 4\ProgressBar\bin\Debug\net6.0-windows\ProgressBar.runtimeconfig.json
+C:\Users\Home PC\Desktop\Term Work Sem 4\ProgressBar\bin\Debug\net6.0-windows\ProgressBar.dll
+C:\Users\Home PC\Desktop\Term Work Sem 4\ProgressBar\bin\Debug\net6.0-windows\ProgressBar.pdb
+C:\Users\Home PC\Desktop\Term Work Sem 4\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.vbproj.AssemblyReference.cache
+C:\Users\Home PC\Desktop\Term Work Sem 4\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.Form1.resources
+C:\Users\Home PC\Desktop\Term Work Sem 4\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.vbproj.GenerateResource.cache
+C:\Users\Home PC\Desktop\Term Work Sem 4\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home PC\Desktop\Term Work Sem 4\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.AssemblyInfoInputs.cache
+C:\Users\Home PC\Desktop\Term Work Sem 4\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.AssemblyInfo.vb
+C:\Users\Home PC\Desktop\Term Work Sem 4\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.vbproj.CoreCompileInputs.cache
+C:\Users\Home PC\Desktop\Term Work Sem 4\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.dll
+C:\Users\Home PC\Desktop\Term Work Sem 4\ProgressBar\obj\Debug\net6.0-windows\refint\ProgressBar.dll
+C:\Users\Home PC\Desktop\Term Work Sem 4\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.pdb
+C:\Users\Home PC\Desktop\Term Work Sem 4\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.genruntimeconfig.cache
+C:\Users\Home PC\Desktop\Term Work Sem 4\ProgressBar\obj\Debug\net6.0-windows\ref\ProgressBar.dll

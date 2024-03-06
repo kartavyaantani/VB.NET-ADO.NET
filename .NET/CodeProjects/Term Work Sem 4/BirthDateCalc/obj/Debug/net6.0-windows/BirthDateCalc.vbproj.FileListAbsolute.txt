@@ -1,0 +1,17 @@
+C:\Users\Home PC\Desktop\Term Work Sem 4\BirthDateCalc\bin\Debug\net6.0-windows\BirthDateCalc.exe
+C:\Users\Home PC\Desktop\Term Work Sem 4\BirthDateCalc\bin\Debug\net6.0-windows\BirthDateCalc.deps.json
+C:\Users\Home PC\Desktop\Term Work Sem 4\BirthDateCalc\bin\Debug\net6.0-windows\BirthDateCalc.runtimeconfig.json
+C:\Users\Home PC\Desktop\Term Work Sem 4\BirthDateCalc\bin\Debug\net6.0-windows\BirthDateCalc.dll
+C:\Users\Home PC\Desktop\Term Work Sem 4\BirthDateCalc\bin\Debug\net6.0-windows\BirthDateCalc.pdb
+C:\Users\Home PC\Desktop\Term Work Sem 4\BirthDateCalc\obj\Debug\net6.0-windows\BirthDateCalc.vbproj.AssemblyReference.cache
+C:\Users\Home PC\Desktop\Term Work Sem 4\BirthDateCalc\obj\Debug\net6.0-windows\BirthDateCalc.Form1.resources
+C:\Users\Home PC\Desktop\Term Work Sem 4\BirthDateCalc\obj\Debug\net6.0-windows\BirthDateCalc.vbproj.GenerateResource.cache
+C:\Users\Home PC\Desktop\Term Work Sem 4\BirthDateCalc\obj\Debug\net6.0-windows\BirthDateCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home PC\Desktop\Term Work Sem 4\BirthDateCalc\obj\Debug\net6.0-windows\BirthDateCalc.AssemblyInfoInputs.cache
+C:\Users\Home PC\Desktop\Term Work Sem 4\BirthDateCalc\obj\Debug\net6.0-windows\BirthDateCalc.AssemblyInfo.vb
+C:\Users\Home PC\Desktop\Term Work Sem 4\BirthDateCalc\obj\Debug\net6.0-windows\BirthDateCalc.vbproj.CoreCompileInputs.cache
+C:\Users\Home PC\Desktop\Term Work Sem 4\BirthDateCalc\obj\Debug\net6.0-windows\BirthDateCalc.dll
+C:\Users\Home PC\Desktop\Term Work Sem 4\BirthDateCalc\obj\Debug\net6.0-windows\refint\BirthDateCalc.dll
+C:\Users\Home PC\Desktop\Term Work Sem 4\BirthDateCalc\obj\Debug\net6.0-windows\BirthDateCalc.pdb
+C:\Users\Home PC\Desktop\Term Work Sem 4\BirthDateCalc\obj\Debug\net6.0-windows\BirthDateCalc.genruntimeconfig.cache
+C:\Users\Home PC\Desktop\Term Work Sem 4\BirthDateCalc\obj\Debug\net6.0-windows\ref\BirthDateCalc.dll

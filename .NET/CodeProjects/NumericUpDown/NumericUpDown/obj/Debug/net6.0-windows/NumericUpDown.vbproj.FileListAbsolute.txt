@@ -1,0 +1,17 @@
+C:\Kartavya\SEM-4\.NET\CodeProjects\NumericUpDown\NumericUpDown\bin\Debug\net6.0-windows\NumericUpDown.exe
+C:\Kartavya\SEM-4\.NET\CodeProjects\NumericUpDown\NumericUpDown\bin\Debug\net6.0-windows\NumericUpDown.deps.json
+C:\Kartavya\SEM-4\.NET\CodeProjects\NumericUpDown\NumericUpDown\bin\Debug\net6.0-windows\NumericUpDown.runtimeconfig.json
+C:\Kartavya\SEM-4\.NET\CodeProjects\NumericUpDown\NumericUpDown\bin\Debug\net6.0-windows\NumericUpDown.dll
+C:\Kartavya\SEM-4\.NET\CodeProjects\NumericUpDown\NumericUpDown\bin\Debug\net6.0-windows\NumericUpDown.pdb
+C:\Kartavya\SEM-4\.NET\CodeProjects\NumericUpDown\NumericUpDown\obj\Debug\net6.0-windows\NumericUpDown.vbproj.AssemblyReference.cache
+C:\Kartavya\SEM-4\.NET\CodeProjects\NumericUpDown\NumericUpDown\obj\Debug\net6.0-windows\NumericUpDown.Form1.resources
+C:\Kartavya\SEM-4\.NET\CodeProjects\NumericUpDown\NumericUpDown\obj\Debug\net6.0-windows\NumericUpDown.vbproj.GenerateResource.cache
+C:\Kartavya\SEM-4\.NET\CodeProjects\NumericUpDown\NumericUpDown\obj\Debug\net6.0-windows\NumericUpDown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kartavya\SEM-4\.NET\CodeProjects\NumericUpDown\NumericUpDown\obj\Debug\net6.0-windows\NumericUpDown.AssemblyInfoInputs.cache
+C:\Kartavya\SEM-4\.NET\CodeProjects\NumericUpDown\NumericUpDown\obj\Debug\net6.0-windows\NumericUpDown.AssemblyInfo.vb
+C:\Kartavya\SEM-4\.NET\CodeProjects\NumericUpDown\NumericUpDown\obj\Debug\net6.0-windows\NumericUpDown.vbproj.CoreCompileInputs.cache
+C:\Kartavya\SEM-4\.NET\CodeProjects\NumericUpDown\NumericUpDown\obj\Debug\net6.0-windows\NumericUpDown.dll
+C:\Kartavya\SEM-4\.NET\CodeProjects\NumericUpDown\NumericUpDown\obj\Debug\net6.0-windows\refint\NumericUpDown.dll
+C:\Kartavya\SEM-4\.NET\CodeProjects\NumericUpDown\NumericUpDown\obj\Debug\net6.0-windows\NumericUpDown.pdb
+C:\Kartavya\SEM-4\.NET\CodeProjects\NumericUpDown\NumericUpDown\obj\Debug\net6.0-windows\NumericUpDown.genruntimeconfig.cache
+C:\Kartavya\SEM-4\.NET\CodeProjects\NumericUpDown\NumericUpDown\obj\Debug\net6.0-windows\ref\NumericUpDown.dll
