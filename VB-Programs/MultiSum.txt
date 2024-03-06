@@ -1,0 +1,17 @@
+Module Module1
+
+    Sub Main()
+        Dim l, sum, mul As Integer
+        Dim i As Integer
+        Console.WriteLine("enter limit")
+        l = Console.ReadLine()
+        For i = 1 To l
+            mul = i * i
+            sum = sum + mul
+            Console.WriteLine(mul)
+        Next
+        Console.WriteLine("sum is {0}", sum)
+        Console.WriteLine()
+    End Sub
+
+End Module

@@ -1,0 +1,12 @@
+Module Module1
+
+    Sub Main()
+        Dim A, I, mul As Integer
+        Console.WriteLine("Enter No: ")
+        A = Console.ReadLine()
+        For I = 1 To 10
+            mul = A * I
+            Console.WriteLine(mul)
+        Next
+    End Sub
+End Module

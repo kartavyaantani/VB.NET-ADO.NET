@@ -1,0 +1,20 @@
+Module Module1
+    Function swap(ByRef n1 As Integer, ByRef n2 As Integer) As Integer
+        Dim temp As Integer
+        temp = n1
+        n1 = n2
+        n2 = temp
+    End Function
+    Sub Main()
+        Dim a, b As Integer
+        Console.WriteLine("enter NO.1:")
+        a = Console.ReadLine()
+        Console.WriteLine("enter NO.2:")
+        b = Console.ReadLine()
+        SWAP(a, b)
+        Console.WriteLine("After Swap ")
+        Console.WriteLine("NUM 1 = " & a)
+        Console.WriteLine("NUM 2 = " & b)
+        Console.ReadLine()
+    End Sub
+End Module

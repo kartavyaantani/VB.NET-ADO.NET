@@ -1,0 +1,29 @@
+Module Module1
+    Sub main()
+
+        Dim a, b, c As Integer
+        Dim d As Char
+        System.Console.WriteLine("Enter value of a and b")
+        a = Val(System.Console.ReadLine())
+        b = Val(System.Console.ReadLine())
+        System.Console.WriteLine(" Press +,-,*,/ for opeartion")
+        d = System.Console.ReadLine()
+        Select Case d
+            Case "+"
+                c = a + b
+                System.Console.WriteLine(c)
+            Case "-"
+                c = a - b
+                System.Console.WriteLine(c)
+            Case "*"
+                c = a * b
+                System.Console.WriteLine(c)
+            Case "/"
+                c = a / b
+                System.Console.WriteLine(c)
+            Case Else
+                MsgBox("wrong choice")
+        End Select
+        Console.ReadLine()
+    End Sub
+End Module

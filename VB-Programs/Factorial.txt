@@ -1,0 +1,18 @@
+Module Module1
+
+    Sub Main()
+        Dim a As Integer = 0
+        Dim X As Integer = 1
+        Console.WriteLine("Enter No.: ")
+        A = Console.ReadLine()
+        For I = 1 To A
+            X = X * I
+            Console.WriteLine(X)
+        Next
+        Console.WriteLine("Factorial =")
+        Console.WriteLine(X)
+        Console.ReadLine()
+
+    End Sub
+
+End Module

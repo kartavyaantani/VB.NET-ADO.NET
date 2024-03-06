@@ -1,0 +1,21 @@
+Module Module1
+
+    Sub Main()
+        Dim a As Integer
+        Dim i, f As Integer
+        Console.WriteLine("PRIME NUMBER FROM 2 TO 100 ARE")
+        For a = 2 To 100 Step 1
+            For i = a To 1
+                f = a Mod i
+                If (f <> 0) Then
+                    Console.WriteLine(a)
+                ElseIf (f = 0) Then
+                    GoTo Exi
+                End If
+                i = i - 1
+            Next
+Exi:
+        Next
+    End Sub
+
+End Module

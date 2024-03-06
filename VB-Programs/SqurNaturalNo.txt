@@ -1,0 +1,10 @@
+Module Module1
+
+    Sub Main()
+        Dim num, sq As Integer
+        Console.WriteLine("Enter a Number:")
+        num = Console.ReadLine()
+        Console.WriteLine("The Square of {0} = {1}", num, num * num)
+        Console.ReadLine()
+    End Sub
+End Module

@@ -1,0 +1,19 @@
+Module Module23
+ Sub main()
+ Dim a, b As Integer
+ Console.WriteLine("Enter a number")
+ a = Console.ReadLine()
+ Console.WriteLine("Enter a number")
+ b = Console.ReadLine()
+ swap(a, b)
+ Console.WriteLine("a = " & a)
+ Console.WriteLine("b = " & b)
+ Console.ReadLine()
+ End Sub
+ Function swap(ByRef a As Integer, ByRef b As Integer) As Nullable
+ Dim temp As Integer
+ temp = a
+ a = b
+ b = temp
+ End Function
+End Module

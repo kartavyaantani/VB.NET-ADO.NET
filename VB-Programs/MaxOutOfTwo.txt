@@ -1,0 +1,19 @@
+Module Module1
+    Function Max(ByVal n1 As Integer, ByVal n2 As Integer) As Integer
+        If (n1 < n2)
+           Return  n2
+	ElseIf
+	   Return n1
+	EndIf
+    End Function
+    Sub Main()
+        Dim a, b, m As Integer
+        Console.WriteLine("enter NO.1:")
+        a = Console.ReadLine()
+        Console.WriteLine("enter NO.2:")
+        b = Console.ReadLine()
+        m = Max(a, b)
+        Console.WriteLine("Maximum = ", &m)
+        Console.ReadLine()
+    End Sub
+End Module

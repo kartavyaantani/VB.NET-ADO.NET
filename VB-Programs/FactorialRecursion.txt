@@ -1,0 +1,19 @@
+Module Module1
+    Function fact(ByVal n As Integer) As Integer
+        Dim f As Integer
+        If (n = 1) Then
+            Return 1
+        Else
+            f = n * fact(n - 1)
+            Return f
+        End If
+    End Function
+    Sub Main()
+        Dim a As Integer
+        Console.WriteLine("Enter a Number:")
+        a = Console.ReadLine()
+        Console.WriteLine("Factorial of {0} = {1}", a, fact(a))
+        Console.Read()
+    End Sub
+
+End Module

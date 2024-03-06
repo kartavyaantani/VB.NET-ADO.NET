@@ -1,0 +1,27 @@
+Module Module1
+    Sub Main()
+        Dim a As Integer = 0
+        Dim b As Integer = 1
+        Dim c, l As Integer
+        Dim n1 As Integer = 0
+        Dim n2 As Integer = 1
+        Console.WriteLine("Enter No.: ")
+        l = Console.ReadLine()
+        If l > 2 Then
+            Console.WriteLine("0")
+        End If
+        If l > 3 Then
+            Console.WriteLine("1")
+        End If
+        While n2 < l
+            n2 = n2 + n1
+            n1 = n2 - n1
+            Console.WriteLine(n2)
+        End While
+
+
+        Console.ReadLine()
+
+    End Sub
+
+End Module

@@ -1,0 +1,16 @@
+Module Module1
+
+    Sub Main()
+        Dim Start, Limit As Integer
+
+        Console.WriteLine("Enter Start and End : ")
+        Start = Console.ReadLine()
+        Limit = Console.ReadLine()
+        Console.WriteLine("No's Are:-----------")
+        For i = Start To Limit Step 1
+            Console.WriteLine(i)
+        Next
+        Console.ReadLine()
+    End Sub
+
+End Module
